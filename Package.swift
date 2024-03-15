@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "whisper.cpp",
-            url: "https://github.com/dstbando/whisper.cpp/releases/download/0.0.4/whisper.cpp.xcframework.zip",
+            url: "https://github.com/dstbando/whisper.cpp/releases/download/0.0.5/whisper.cpp.xcframework.zip",
             checksum: "ad6cf74577b6ee44a8c484ed202bdcf10531563c801b1750453a0920fe5c8308"),
     ]
 )
