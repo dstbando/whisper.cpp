@@ -10,7 +10,7 @@ let package = Package(
     products: [
         .library(
             name: "whisper.cpp",
-            targets: ["whisper.cpp"]),
+            targets: ["whisper_cpp"]),
     ],
     dependencies: [],
     targets: [
